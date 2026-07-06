@@ -2,173 +2,131 @@
 
 # 👋 Hi, I'm Chethan MV
 
-### Frontend Engineer • React.js • Next.js • TypeScript
+### Frontend Engineer | React.js • Next.js • TypeScript
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3FB950&center=true&vCenter=true&width=900&lines=5%2B+Years+Frontend+Development;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Open+for+Freelance+Projects)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="./hero.png" width="100%" alt="Chethan MV Banner" />
+<p>
+Building scalable, performant, and user-friendly web applications with modern frontend technologies.
 </p>
+
+<a href="mailto:chethan.makodu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/chethanmv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 # 💼 About Me
 
-Frontend Engineer with **5+ years of experience** building scalable web applications.
+I'm a **Frontend Engineer with 5+ years of experience** building scalable, responsive, and high-performance web applications.
 
-Currently working at **Responsive**.
+Currently working as a **Software Engineer at Responsive**, specializing in **React.js, Next.js, TypeScript, and modern frontend architecture**.
 
-I enjoy solving complex frontend problems and building products that are fast, responsive and maintainable.
-
-### Current Focus
-
-- 🚀 Freelancing
-- ⚛️ React.js
-- ▲ Next.js
-- TypeScript
-- Performance Optimization
-- UI Architecture
+I'm passionate about writing clean, maintainable code and creating intuitive user experiences. Alongside my full-time role, I'm actively building my freelance portfolio and production-ready SaaS projects.
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-### UI Libraries
+**UI Libraries**
 
-Material UI • Ant Design • Styled Components
+- Material UI
+- Ant Design
+- Styled Components
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 📚 Library Management
-
-React • TypeScript • Express
-
-✔ Authentication
-
-✔ CRUD
-
-✔ Dashboard
-
-✔ REST API
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📚 Library Management System | Full-stack library management application | React, TypeScript, Node.js, Express |
+| 🛒 NextJS Store | Modern eCommerce application | Next.js, TypeScript |
+| 🎨 Art Gallery | Responsive gallery application | JavaScript |
+| 🚀 TaskFlow *(Coming Soon)* | Project Management SaaS | Next.js, TypeScript, Material UI |
 
 ---
 
-## 🛒 NextJS Store
+# 🛠 Services
 
-Modern Ecommerce Application
-
-✔ Responsive
-
-✔ Cart
-
-✔ Product Listing
-
-✔ Next.js
-
----
-
-## 🎨 Art Gallery
-
-Responsive UI
-
-Modern Layout
-
----
-
-## 🚧 Coming Soon
-
-🚀 TaskFlow
-
-Production Ready Project Management SaaS
-
----
-
-# 🛠 What I Can Build
-
-- SaaS Applications
-- Admin Dashboards
-- Business Websites
+- React.js Development
+- Next.js Development
+- Frontend Development
+- Dashboard Development
 - Landing Pages
-- Ecommerce
+- Business Websites
 - REST API Integration
-- Responsive UI
 - Performance Optimization
+- Responsive UI Development
 
 ---
 
 # 🌱 Currently Learning
 
 - System Design
-
 - AWS
-
 - Docker
+- Advanced Next.js Architecture
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-✅ Become a Top Rated Freelancer
-
-✅ Work with Global Clients
-
-✅ Build SaaS Products
-
-✅ Build Open Source Projects
+- 🚀 Build a strong freelance business
+- 🌍 Work with international clients
+- 💼 Launch production-ready SaaS applications
+- ⭐ Contribute to open source
+- 📚 Share technical content on LinkedIn and GitHub
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-📧 **chethan.makodu@gmail.com**
+📧 **Email:**  
+**chethan.makodu@gmail.com**
 
-💼 LinkedIn
-
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/chethanmv
 
-📍 Mysore | Bangalore
+📍 **Location:**  
+Mysore / Bangalore, Karnataka, India
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting ⭐
+### ⭐ Thanks for visiting my profile!
 
-*"Great products are built one commit at a time."*
+**"Building modern web experiences, one project at a time."**
 
 </div>

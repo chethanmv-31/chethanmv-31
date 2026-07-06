@@ -4,116 +4,159 @@
 
 ### Frontend Engineer • React.js • Next.js • TypeScript
 
-<p align="center">
-Building scalable, performant & beautiful web applications 🚀
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3FB950&center=true&vCenter=true&width=900&lines=5%2B+Years+Frontend+Development;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Open+for+Freelance+Projects)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Frontend+Engineer;React.js+%7C+Next.js+%7C+TypeScript;5%2B+Years+of+Experience;Open+to+Freelance+Projects;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan%20MV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chethanmv)
-
-[![Gmail](https://img.shields.io/badge/Gmail-chethan.makodu%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:chethan.makodu@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=chethanmv-31&style=for-the-badge)
+<img src="assets/banner.png"/>
 
 </div>
 
 ---
 
-# 💡 About Me
+# 💼 About Me
 
-```ts
-const chethan = {
-  role: "Software Engineer",
-  company: "Responsive",
-  location: "Mysore, Karnataka 🇮🇳",
+Frontend Engineer with **5+ years of experience** building scalable web applications.
 
-  experience: "5+ Years",
+Currently working at **Responsive**.
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Redux",
-    "Material UI"
-  ],
+I enjoy solving complex frontend problems and building products that are fast, responsive and maintainable.
 
-  backend: [
-    "Node.js",
-    "Express"
-  ],
+### Current Focus
 
-  databases: [
-    "MongoDB",
-    "PostgreSQL"
-  ],
-
-  currentFocus: [
-    "Freelancing",
-    "System Design",
-    "Performance Optimization"
-  ],
-
-  openForFreelance: true
-}
-```
+- 🚀 Freelancing
+- ⚛️ React.js
+- ▲ Next.js
+- TypeScript
+- Performance Optimization
+- UI Architecture
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
+# ⚡ Tech Stack
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind"/>
+
+</p>
+
+### UI Libraries
 
 Material UI • Ant Design • Styled Components
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+</p>
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=mongodb,postgres)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+
+</p>
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman"/>
+
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📚 Library Management | Full Stack Library Management System |
-| 🛒 NextJS Store | E-Commerce Application |
-| 🎨 Art Gallery | Responsive Gallery Website |
-| 🚀 TaskFlow | Project Management SaaS *(Coming Soon)* |
+## 📚 Library Management
+
+React • TypeScript • Express
+
+✔ Authentication
+
+✔ CRUD
+
+✔ Dashboard
+
+✔ REST API
+
+---
+
+## 🛒 NextJS Store
+
+Modern Ecommerce Application
+
+✔ Responsive
+
+✔ Cart
+
+✔ Product Listing
+
+✔ Next.js
+
+---
+
+## 🎨 Art Gallery
+
+Responsive UI
+
+Modern Layout
+
+---
+
+## 🚧 Coming Soon
+
+🚀 TaskFlow
+
+Production Ready Project Management SaaS
+
+---
+
+# 🛠 What I Can Build
+
+- SaaS Applications
+- Admin Dashboards
+- Business Websites
+- Landing Pages
+- Ecommerce
+- REST API Integration
+- Responsive UI
+- Performance Optimization
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+
+- AWS
+
+- Docker
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Become a successful Freelancer
-- 🌍 Work with International Clients
-- 💼 Build SaaS Products
-- ⭐ Contribute to Open Source
-- 📈 Grow my developer brand
+✅ Become a Top Rated Freelancer
+
+✅ Work with Global Clients
+
+✅ Build SaaS Products
+
+✅ Build Open Source Projects
 
 ---
 
-# 📬 Let's Connect
+# 📫 Contact
 
-📧 **Email**
+📧 **chethan.makodu@gmail.com**
 
-chethan.makodu@gmail.com
-
-💼 **LinkedIn**
+💼 LinkedIn
 
 https://www.linkedin.com/in/chethanmv
 
@@ -123,8 +166,8 @@ https://www.linkedin.com/in/chethanmv
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting ⭐
 
-*"Code. Learn. Build. Repeat."*
+*"Great products are built one commit at a time."*
 
 </div>

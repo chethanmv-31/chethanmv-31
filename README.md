@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Chethan MV
 
-<!--
-**chethanmv-31/chethanmv-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Engineer | React | Next.js | TypeScript
 
-Here are some ideas to get you started:
+I have 5+ years of experience building modern, scalable, and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Frontend Engineer and building my freelance portfolio.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Material UI
+- Tailwind CSS
+
+### State Management
+- Redux Toolkit
+- Context API
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Bitbucket
+- Jira
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Library Management System
+React + TypeScript + Node.js
+
+### 🛒 NextJS Store
+Modern ecommerce application
+
+### 🎨 Art Gallery
+Responsive gallery application
+
+---
+
+## 🎯 Currently Building
+
+🚀 TaskFlow
+A Project Management SaaS using Next.js and TypeScript.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/your-profile
+
+🌐 Portfolio:
+Coming Soon
+
+---
+
+⭐ Open for Freelance Opportunities

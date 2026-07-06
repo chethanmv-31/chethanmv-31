@@ -1,119 +1,123 @@
-<h1 align="center">Hi 👋, I'm Chethan MV</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Engineer | React.js • Next.js • TypeScript
-</h3>
+# 👋 Hi, I'm Chethan MV
 
-<p align="center">
-Building scalable web applications • Performance Optimization • Open for Freelance 🚀
-</p>
+### Frontend Engineer | React.js • Next.js • TypeScript
 
-<p align="center">
-<a href="https://www.linkedin.com/in/chethanmv">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🚀 Building scalable web applications | Open to Freelance
 
 <a href="mailto:chethan.makodu@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chethanmv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=chethanmv-31&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=chethanmv-31&style=for-the-badge&color=blue)
 
-</p>
-
----
-
-# 👨🏻‍💻 About Me
-
-🚀 Frontend Engineer with **5+ years** of experience building scalable web applications.
-
-💼 Currently working as **Software Engineer @ Responsive**
-
-❤️ Passionate about creating beautiful, responsive and high-performance user interfaces.
-
-🎯 My goal is to become a successful **Freelance React/Next.js Developer** while building production-ready SaaS applications.
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 💡 About Me
 
-### Frontend
+I'm a **Frontend Engineer with 5+ years of experience** building scalable and high-performance web applications.
+
+Currently working at **Responsive**, where I build enterprise applications using **React, TypeScript and Next.js**.
+
+I enjoy building products that are clean, responsive, performant and easy to maintain.
+
+### 🎯 2026 Goals
+
+- 🚀 Become a successful Freelance Developer
+- 🌎 Work with international clients
+- ⚡ Build production-ready SaaS products
+- 📚 Share my learning on GitHub & LinkedIn
+- ❤️ Contribute to Open Source
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind"/>
 </p>
 
-### UI Libraries
+## UI Libraries
 
 - Material UI
 - Ant Design
 - Styled Components
 
-### Backend
+## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
 </p>
 
-### Database
+## Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
-
 </p>
 
-### Tools
+## Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman"/>
-
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Experience
 
-### 📚 Library Management System
+## Responsive
 
-Full Stack Library Management System
+**Software Engineer**
 
-- React
+- React.js
+- Next.js
 - TypeScript
-- Node.js
-- Express
+- REST APIs
+- GrapesJS
+- Jest
+- SonarQube
+- Performance Optimization
+- Code Reviews
 
 ---
 
-### 🛒 NextJS Store
+# 🌟 Featured Projects
 
-Modern eCommerce Store built with Next.js.
+## 📚 Library Management System
 
-Features
+React + TypeScript + Express + Node.js
 
-- Authentication
-- Cart
-- Product Listing
-- Responsive Design
+A complete library management platform.
 
 ---
 
-### 🎨 Art Gallery
+## 🛒 NextJS Store
 
-Responsive Art Gallery built using JavaScript.
+Modern eCommerce application.
 
 ---
 
-# 🚧 Currently Working On
+## 🎨 Art Gallery
 
-🚀 **TaskFlow**
+Responsive JavaScript Gallery.
 
-A Project Management SaaS built using
+---
+
+# 🚧 Currently Building
+
+## 🚀 TaskFlow
+
+Production Ready Project Management SaaS
+
+Tech Stack
 
 - Next.js
 - TypeScript
@@ -125,72 +129,40 @@ Coming Soon...
 
 ---
 
-# 🌟 Services
+# 🛠 Services
 
-✅ React Development
-
-✅ Next.js Development
-
-✅ Frontend Development
-
-✅ Landing Pages
-
-✅ Dashboard Development
-
-✅ Performance Optimization
-
-✅ Responsive Websites
+- React Development
+- Next.js Development
+- Dashboard Development
+- Landing Pages
+- Business Websites
+- UI Development
+- Performance Optimization
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chethanmv-31&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chethanmv-31&theme=github-dark"/>
-
-</p>
+> GitHub stats are temporarily removed because the free service often breaks. I'll help you add them back later using a more reliable setup.
 
 ---
 
-# 📊 Most Used Languages
+# 📬 Connect With Me
 
-<p align="center">
+📧 **chethan.makodu@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanmv-31&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-📧 Email
-
-**chethan.makodu@gmail.com**
+📍 Mysore | Bangalore
 
 💼 LinkedIn
 
 https://www.linkedin.com/in/chethanmv
 
-📍 Mysore | Bangalore, Karnataka
-
 ---
 
-# ⚡ 2026 Goals
+<div align="center">
 
-- 🚀 Become a Top Rated Freelancer
-- 🌍 Work with International Clients
-- 💼 Build Production Ready SaaS Applications
-- 📚 Share Knowledge on LinkedIn & Instagram
-- ⭐ Contribute to Open Source
+### ⭐ Thanks for visiting my profile ⭐
 
----
+*"Code. Learn. Build. Repeat."*
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
+</div>

@@ -64,11 +64,11 @@ A Project Management SaaS using Next.js and TypeScript.
 
 ## 📫 Contact Me
 
-📧 Email: your-email@gmail.com
+📧 Email: chethan.makodu@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/your-profile
-
+[https://linkedin.com/in/your-profile
+](https://www.linkedin.com/in/chethan-m-v-655b2b172/)
 🌐 Portfolio:
 Coming Soon
 
